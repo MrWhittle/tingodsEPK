@@ -1,0 +1,27 @@
+{
+  "name": "band-epk",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://YOUR-USERNAME.github.io/tingodsEPK",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.0",
+    "vite": "^5.0.0"
+  }
+}
