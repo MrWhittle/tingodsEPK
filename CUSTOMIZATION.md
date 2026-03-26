@@ -9,7 +9,7 @@ This guide walks you through customizing the EPK template for your specific band
 
 Find this line:
 ```jsx
-<h1 className="text-2xl sm:text-3xl font-bold text-red-600">YOUR BAND NAME</h1>
+<h1 className="text-2xl sm:text-3xl font-bold text-red-600">Tin Gods</h1>
 ```
 
 Replace with your actual band name:
