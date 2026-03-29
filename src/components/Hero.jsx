@@ -12,6 +12,9 @@ const StyledSection = styled.section`
 const StyledOverlay = styled.div`
   position: absolute;
   bottom: 80px; 
+   left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.6);
 
   `
 

@@ -9,20 +9,88 @@ export default function Gallery() {
       id: 1,
       title: 'Steve performing live',
       src: './steve.png',
-      alt: 'Band performing on stage'
+      alt: 'Tin Gods'
     },
     {
       id: 2,
       title: 'At the ferret',
       src: './ferretBand.jpg',
-      alt: 'Band at concert'
+      alt: 'Tin Gods'
     },
-    {
+
+        {
       id: 3,
-      title: 'Main Pic',
-      src: './mainHero.jpg',
-      alt: 'Band in the studio'
+      title: 'Tin Gods',
+      src: './f1.jpg',
+      alt: 'Tin Gods'
     },
+            {
+      id: 4,
+      title: 'Tin Gods',
+      src: './f2.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 5,
+      title: 'Tin Gods',
+      src: './f3.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 6,
+      title: 'Tin Gods',
+      src: './f4.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 7,
+      title: 'Tin Gods',
+      src: './f5.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 8,
+      title: 'Tin Gods',
+      src: './f6.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 9,
+      title: 'Tin Gods',
+      src: './f7.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 10,
+      title: 'Tin Gods',
+      src: './f8.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 11,
+      title: 'Tin Gods',
+      src: './f9.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 12,
+      title: 'Tin Gods',
+      src: './f10.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 13,
+      title: 'Tin Gods',
+      src: './f11.jpg',
+      alt: 'Tin Gods'
+    },
+            {
+      id: 14,
+      title: 'Tin Gods',
+      src: './f12.jpg',
+      alt: 'Tin Gods'
+    },
+      
 
   ]
 

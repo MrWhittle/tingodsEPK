@@ -83,7 +83,7 @@ export default function Music() {
                A new lease of life, a haunting echo of the past, and a testament to the enduring spirit of rock. Les Revenants is more than just an album; it's a journey through the shadows and light of our musical evolution. With each track, we invite you to experience the raw energy, emotional depth, and unyielding passion that defines Tin Gods. This is our resurrection, our return, and we can't wait for you to hear it. 
               </p>
               <a
-                href="https://open.spotify.com"
+                href="https://open.spotify.com/artist/32juaRnw2zBULXo7kVNddS"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-black hover:bg-slate-600 text-white font-bold py-3 px-8 rounded-lg transition transform hover:scale-105"

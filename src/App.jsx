@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Gallery from './components/Gallery'
 import Bio from './components/Bio'
 import Music from './components/Music'
+import Gigs from './components/Gigs'
 import Socials from './components/Socials'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
@@ -17,6 +18,7 @@ export default function App() {
         <Gallery />
         <Bio />
         <Music />
+        <Gigs />
         {/* <Socials /> */}
         <Contact />
       </main>

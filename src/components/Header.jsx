@@ -10,6 +10,7 @@ export default function Header() {
             <li><a href="#gallery" className="hover:text-red-600 transition">Gallery</a></li>
             <li><a href="#bio" className="hover:text-red-600 transition">Bio</a></li>
             <li><a href="#music" className="hover:text-red-600 transition">Music</a></li>
+            <li><a href="#gigs" className="hover:text-red-600 transition">Gigs</a></li>
             <li><a href="#contact" className="hover:text-red-600 transition">Contact</a></li>
           </ul>
         </div>
