@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function Gigs() {
   const gigs = [
-    {
-      id: 1,
-      date: 'April 5, 2026',
-      venue: 'The Ferret',
-      location: 'Preston, UK',
-      ticketUrl: 'https://www.theferret.live',
-    //   ticketPrice: '£10'
-        ticketPrice: ''
-    }
+    // {
+    //   id: 1,
+    //   date: 'April 5, 2026',
+    //   venue: 'The Ferret',
+    //   location: 'Preston, UK',
+    //   ticketUrl: 'https://www.theferret.live',
+    // //   ticketPrice: '£10'
+    //     ticketPrice: ''
+    // }
    
   ]
 
