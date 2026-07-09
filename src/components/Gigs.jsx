@@ -9,7 +9,7 @@ export default function Gigs() {
       location: 'Preston, UK',
       ticketUrl: 'https://www.theferret.live',
     //   ticketPrice: '£10'
-        ticketPrice: ''
+        ticketPrice: 'TBA'
     }
    
   ]
